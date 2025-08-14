@@ -120,11 +120,11 @@ If you like **SHADØW-XMD-V1**, please consider:
 - 📢 Sharing it with your friends
 
 <p align="center">
-<a href="https://github.com/FAMOUS-TECH-DEV/SHADOW-XMD-V1/stargazers">
-<img src="https://img.shields.io/github/stars/yourusername/shadow-xmd-v1?style=for-the-badge">
+<a href="https://github.com/FAMOUS-TECH-DEV/SHADOW-XMD-V1/stars">
+<img src="https://img.shields.io/github/stars/FAMOUS-TECH-DEV/shadow-xmd-v1?style=for-the-badge">
 </a>
 <a href="https://github.com/FAMOUS-TECH-DEV/SHADOW-XMD-V1/network/members">
-<img src="https://img.shields.io/github/forks/yourusername/shadow-xmd-v1?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/FAMOUS-TECH-DEV/SHADOW-XMD-V1?style=for-the-badge">
 </a>
 </p>
 
