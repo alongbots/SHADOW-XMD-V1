@@ -50,7 +50,7 @@ const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, awa
 
 // Function to update shadow.js from GitHub
 async function updateSparkJs() {
-    const githubRawUrl = '';
+    const githubRawUrl = 'https://raw.githubusercontent.com/FAMOUS-TECH-DEV/SHADOW-XMD-V1/refs/heads/master/shadow.js';
     const localFilePath = './shadow.js';
 
 console.log(chalk.blue(`[INSTALLING]SHADØW-XMD📥`));
