@@ -185,7 +185,7 @@ console.log(chalk.keyword('red')(`
 ╚═╩═╩═╩═╩═╩══╩╩═╩╩═╝
 kindly input your whatsapp number:`));
 
-           let phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`please enter you verifying: `)));
+           let phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`FAMØUS DEV IS VERIFYING: `)));
            phoneNumber = phoneNumber.replace(/[^0-9]/g,  '');
          
          // Ask again when entering the wrong number
