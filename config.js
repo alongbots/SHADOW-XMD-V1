@@ -1,7 +1,7 @@
 //==BANK,CHANGE DETAILS TO YOURS===//
-global.bankname = "FCMB"
-global.banknumber = "2859859010"
-global.bankowner = "ᴀsᴋ ғᴏʀ ɴᴀᴍᴇ"
+global.bankname = "ALONG"
+global.banknumber = "918731810311"
+global.bankowner = "ALONG"
 //==========  CPANEL COMMAND FILL BOTH ===============\\
 global.domain = '_' // Fill in your domain, don't put a / at the end of the link
 global.apikey = '_' // Fill APIKEY
