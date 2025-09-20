@@ -9,35 +9,35 @@ global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
 global.ig = 'https://wa.me/2348126003566'
 global.yt = 'https://www.youtube.com/@FAM%C3%98USDEV001'
 global.ttowner = '-'
-global.ownername = '⦿ ƑΛMØUS † DEV★' 
-global.owner = ['2347026441048'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
-global.ownernomer = '2347026441048'
-global.socialm = 'https://github.com/FAMOUS-TECH-DEV'
-global.location = 'Nigeria' 
+global.ownername = 'ALONG' 
+global.owner = ['918731810311'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
+global.ownernomer = '918731810311'
+global.socialm = 'Along'
+global.location = 'NAGALAND 
 //========================setting Payment=====================\\
-global.nodana = '2859859010' // IT'S BLANK IF IT'S NOT EXISTING
-global.nogopay = '2859859010' // IT'S BLANK IF IT'S NOT EXISTING 
+global.nodana = '918731810311' // IT'S BLANK IF IT'S NOT EXISTING
+global.nogopay = '8731810311' // IT'S BLANK IF IT'S NOT EXISTING 
 global.noovo = '' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting Payment Name===========================\\
-global.andana = 'FCMB' // IT'S BLANK IF IT'S NOT EXISTING
-global.angopay = 'FCMB' // IT'S BLANK IF IT'S NOT EXISTING
+global.andana = 'ALONG' // IT'S BLANK IF IT'S NOT EXISTING
+global.angopay = 'Along' // IT'S BLANK IF IT'S NOT EXISTING
 global.anovo = '' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting bot===========================\\
 global.botname = "ＳＨＡＤØＷ Ｖ１ 👑"
-global.ownernumber = '2348126003566'
-global.botnumber = '2347026441048'
-global.ownername = '⦿ ƑΛMØUS † DEV★'
-global.ownerNumber = ["2347026441048@s.whatsapp.net"]
-global.ownerweb = "https://t.me/FamousDev"
-global.websitex = "https://wa.me/2347026441048"
-global.wagc = "https://whatsapp.com/channel/0029VbAaOJLInlqVwhwtxS33"
-global.saluran = "https://whatsapp.com/channel/0029VbAaOJLInlqVwhwtxS33"
+global.ownernumber = '918731810311'
+global.botnumber = '917085193767'
+global.ownername = 'ALONG'
+global.ownerNumber = ["918731810311@s.whatsapp.net"]
+global.ownerweb = "ALONG"
+global.websitex = "https://wa.me/918731810311"
+global.wagc = ""
+global.saluran = ""
 global.themeemoji = '☌ '
-global.wm = "⦿ ƑΛMØUS † DEV★"
-global.botscript = 'https://github.com/FAMOUS-TECH-DEV/SHADØW-XMD-V1' //script link
+global.wm = "ALONG"
+global.botscript = '' //script link
 global.packname = "ᏕᏂᏗᎴØᏇ-Ꮙ1"
-global.author = "⦿ ƑΛMØUS † DEV★"
-global.creator = "2347026441048@s.whatsapp.net"
+global.author = "ALONG"
+global.creator = "918731810311@s.whatsapp.net"
 //===========================//
 
 global.decor = {
